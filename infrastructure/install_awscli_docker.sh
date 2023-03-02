@@ -41,7 +41,7 @@ sudo groupadd docker
 sudo usermod -aG docker $USER
 
 cd /home/ubuntu 
-touch file2
+#touch file2
 
 echo Install Docker Compose
 
